@@ -1,6 +1,8 @@
 # Story
 My masterpiece.
 
+## Show your support
+Please give a ⭐️ if you like this project! 
 #Goals⚽️
 *💻 This project is an open source project to get familiar with git & github, it involves merging, pulling, forking and editing. Bug fixes and improvemets are welcome here!
 
