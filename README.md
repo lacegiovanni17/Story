@@ -1,5 +1,6 @@
 # Story
 My masterpiece.
 
-##About
+#About
+
 Collaboration using remote repositories on github
